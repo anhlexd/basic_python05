@@ -1,0 +1,7 @@
++ Quản lý thông tin Học viên: Thêm/Sửa/Xoá/Tìm kiếm học viên theo Mã học viên, Họ tên, Email
++ Quản lý thông tin Môn học: Thêm/Sửa/Xoá/Tìm kiếm môn học theo Mã môn học, Tên môn học
++ Quản lý thông tin Điểm thi: 
+    Nhập điểm/Sửa điểm/Tra cứu điểm theo Mã học viên hoặc Họ tên học viên
+    Thống kê danh sách các Học viên theo các mức Điểm tổng kết
+    Xuất dữ liệu diểm ra file json 
++ Valid dữ liệu
